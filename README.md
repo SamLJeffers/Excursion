@@ -1,2 +1,0 @@
-# Excursion
-Excursion Codecademy project
